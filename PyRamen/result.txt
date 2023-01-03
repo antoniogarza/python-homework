@@ -1,0 +1,72 @@
+spicy miso ramen  
+count: 9238
+revenue: $110,856.00
+cost: $46,190.00
+profit: $64,666.00
+---------------------------------------------------------
+tori paitan ramen  
+count: 9156
+revenue: $119,028.00
+cost: $54,936.00
+profit: $64,092.00
+---------------------------------------------------------
+truffle butter ramen  
+count: 8982
+revenue: $125,748.00
+cost: $62,874.00
+profit: $62,874.00
+---------------------------------------------------------
+tonkotsu ramen  
+count: 9288
+revenue: $120,744.00
+cost: $55,728.00
+profit: $65,016.00
+---------------------------------------------------------
+vegetarian spicy miso  
+count: 9216
+revenue: $110,592.00
+cost: $46,080.00
+profit: $64,512.00
+---------------------------------------------------------
+shio ramen  
+count: 9180
+revenue: $100,980.00
+cost: $45,900.00
+profit: $55,080.00
+---------------------------------------------------------
+miso crab ramen  
+count: 8890
+revenue: $106,680.00
+cost: $53,340.00
+profit: $53,340.00
+---------------------------------------------------------
+nagomi shoyu  
+count: 9132
+revenue: $100,452.00
+cost: $45,660.00
+profit: $54,792.00
+---------------------------------------------------------
+soft-shell miso crab ramen  
+count: 9130
+revenue: $127,820.00
+cost: $63,910.00
+profit: $63,910.00
+---------------------------------------------------------
+burnt garlic tonkotsu ramen  
+count: 9070
+revenue: $126,980.00
+cost: $54,420.00
+profit: $72,560.00
+---------------------------------------------------------
+vegetarian curry + king trumpet mushroom ramen  
+count: 8824
+revenue: $114,712.00
+cost: $61,768.00
+profit: $52,944.00
+---------------------------------------------------------
+Ramen summary 
+Number of Sales: 74,124
+Total of Items Sold: 100,106
+Total of Revenue: $1,264,592.00
+Total Cost of Goods: $590,806.00 
+Total of Profit: $673,786.00 
